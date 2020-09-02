@@ -12,6 +12,8 @@ import ProgressHUD
 
 class LoginViewController: UIViewController, UITextFieldDelegate {
     
+    //Добавил Git
+    
     @IBOutlet weak var loginButton: UIButton!
     @IBOutlet weak var registerButton: UIButton!
     @IBOutlet weak var logoName: UILabel!
